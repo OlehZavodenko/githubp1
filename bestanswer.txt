@@ -1,0 +1,17 @@
+Run this command to create a new file:
+
+echo 'Hello world!' > hello_world.txt
+Now, what’s the difference between these two commands?
+
+echo hello_world.txt
+cat hello_world.txt
+  Check here to provide feedback if you feel this question is not clear enough for you to answer it Oleh Zavodenko marked this submission as open
+Helofromkyiv
+Oleh Zavodenko commented 4 days.
+echo is displaying what ever we ask to display in this particular case name of file
+
+cat is displaying what is in the file
+
+Angeldude
+Angel Vanegas commented 3 days.
+great!
